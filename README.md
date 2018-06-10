@@ -97,11 +97,11 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [X] [Distributed Databases](https://en.wikipedia.org/wiki/Distributed_database)
   - [X] [Sharding](https://en.wikipedia.org/wiki/Shard_%28database_architecture%29)
     - [X] [Consistent Hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
-  - [ ] [Leader-Follower Replication](https://en.wikipedia.org/wiki/Replication_%28computing%29)
-  - [ ] [Quorum-based commits](https://en.wikipedia.org/wiki/Quorum_%28distributed_computing%29)
-  - [ ] [Distributed Hash Tables](https://en.wikipedia.org/wiki/Distributed_hash_table)
-    - [ ] [Chord](https://en.wikipedia.org/wiki/Chord_%28peer-to-peer%29)
-    - [ ] [Kademilia](https://en.wikipedia.org/wiki/Kademlia)
+  - [X] [Leader-Follower Replication](https://en.wikipedia.org/wiki/Replication_%28computing%29)
+  - [X] [Quorum-based commits](https://en.wikipedia.org/wiki/Quorum_%28distributed_computing%29)
+  - [X] [Distributed Hash Tables](https://en.wikipedia.org/wiki/Distributed_hash_table)
+    - [X] [Chord](https://en.wikipedia.org/wiki/Chord_%28peer-to-peer%29)
+    - [X] [Kademilia](https://en.wikipedia.org/wiki/Kademlia)
 
 ## Networking
 - [ ] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
